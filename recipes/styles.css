@@ -1,16 +1,17 @@
 /* style.css */
 
 body {
-    color: white;
+    background-color: #e4007c;
 }
-
-body {background-color: #e4007c;}
 
 body {
     margin: auto;
     width: 50%;
     border: 3px solid yellow;
     padding: 10px;
+    resize: both;
+    overflow: auto;
+    color: white
   }
   img {
     display: block;
